@@ -34,7 +34,7 @@ It covers all the essential tools to build, run, and deploy a functional to-do l
 
 ### Steps
 
-1.Clone the repo:
+1. Clone the repo:
 
    ```bash
    git clone https://github.com/kamalisreesathiyamoorthi/TO-DO-LIST-FINAL.git
