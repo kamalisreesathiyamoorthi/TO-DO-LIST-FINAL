@@ -48,9 +48,9 @@ MONGODB_URI="mongodb+srv://username:password@cluster0.is1woh5.mongodb.net/databa
 
 3.Start the app using Docker Compose: docker-compose up --build
 
-4.Access the frontend: http://localhost:3001/docs
+4.Access the frontend: http://localhost:3000
 
-5.API documentation:http://localhost:8001/docs
+5.API documentation:http://localhost:3001/docs
 
 6.Cleanup:
 To remove project containers, volumes, and orphaned containers: docker-compose down --volumes --remove-orphans
