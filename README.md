@@ -34,14 +34,13 @@ It covers all the essential tools to build, run, and deploy a functional to-do l
 
 ### Steps
 
-1. Clone the repo:
+1.Clone the repo:
 
    ```bash
    git clone https://github.com/kamalisreesathiyamoorthi/TO-DO-LIST-FINAL.git
    cd TO-DO-LIST-FINAL
 
-
-91.Configure environment variables:
+2.Configure environment variables:
 
 Create a .env file (or update your Docker environment variables) with your MongoDB Atlas URI, for example:
 
