@@ -1,4 +1,4 @@
-# To-Do List Project
+# farm-stack-todo
 
 This is a full-stack To-Do List app built using FastAPI for the backend and React for the frontend. The project includes:
 
